@@ -11,5 +11,7 @@ Genetic programming techniques allow flexibility in the optimization process, ma
 ## Contact
 
 rogerio.povoa@apparat.no
+
 www.linkedin.com/in/rogeriopovoa/
+
 www.apparat.no
